@@ -336,13 +336,13 @@ SENSOR ÉRTÉK VÁLTOZIK
       ↓
 ┌─────────────────────────────────────────────┐
 │  FIGYELMEZTETÉS (20 sec stabil) ?           │
-│  ✅ YES → Automatizmus 2 (Pause) flaggel   │
+│  ✅ YES → Automatizmus 2 (Pause) flaggel    │
 │  ❌ NO → Wait                               │
 └─────────────────────────────────────────────┘
       ↓
 ┌─────────────────────────────────────────────┐
-│  OK - NORMÁL ÜZEM (30 sec stabil) ?        │
-│  ✅ YES → Automatizmus 3 (Resume) flag törl│
+│  OK - NORMÁL ÜZEM (30 sec stabil) ?         │
+│  ✅ YES → Automatizmus 3 (Resume) flag törl │
 │  ❌ NO → Wait                               │
 └─────────────────────────────────────────────┘
       ↓
